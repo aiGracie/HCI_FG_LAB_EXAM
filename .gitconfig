@@ -1,0 +1,7 @@
+[user]
+	name = Mary Grace Solis
+	email = 20246332@s.ubaguio.edu
+[safe]
+	directory = *
+	directory = C:/Users/solis_m
+	directory = *
